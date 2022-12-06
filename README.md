@@ -1,6 +1,9 @@
 <h1> Sistema de Lanchonete 🌭</h1>
- 
-# 📍 Tópicos
+
+<i>Projeto de um pequeno sistema, feito com python 
+Podendo realizar o cadastro dos lanche , preço , e podendo atualizar e excluir
+Por final conseguir saber o valor Total por mesa .</i>
+# Tópicos 📍
 
 
  * Login
@@ -8,7 +11,12 @@
  * Cadastro
  * Visualizar
 
- # Autor
+# Configuração 🛠
+
+ * Python versão 3 🐍
+ * Módulo: database sqlite3 🎲
+
+ # Autor 🚀
 
 
 [<img src="https://avatars.githubusercontent.com/u/13538814?v=4" width=45><br><sub> Aclelino </sub>](https://www.github.com/aclelino)
